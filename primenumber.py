@@ -30,6 +30,8 @@ class PrimeNumber:
 
                 else:
                     print(num)
+            else:
+                print(num, "is not prime number")
 
 
 
